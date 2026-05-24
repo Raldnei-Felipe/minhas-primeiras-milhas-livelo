@@ -1,4 +1,4 @@
-<h1 align="center">🛫 Minha Primeira Viagem com Milhas</h1>
+<h1 align="center">🛫 Minha Primeira Viagem com Milhas— Projeto DIO </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DIO-Projeto%20Conclu%C3%ADdo-orange?style=for-the-badge" />
@@ -10,12 +10,6 @@
   Caderno temático criado com NotebookLM para aprender a usar
   o programa Livelo do zero e conquistar a primeira viagem com milhas aéreas. ✈️
 </p>
-
----
-
-# Minha Primeira Viagem com Milhas — Projeto DIO
-
-
 ---
 
 ##  Contexto e Objetivos
