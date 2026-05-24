@@ -15,8 +15,6 @@
 
 # Minha Primeira Viagem com Milhas — Projeto DIO
 
-> Caderno temático criado com NotebookLM para aprender a usar o programa
-> Livelo do zero e conquistar a primeira viagem com milhas aéreas.
 
 ---
 
